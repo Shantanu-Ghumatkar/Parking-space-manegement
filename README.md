@@ -1,4 +1,4 @@
-# Aim:To reduce time trafic and time to find parking place in mall or streate on google map
+# Aim:To reduce time traffic and time to find parking place in mall or street on google map
 
 We propose an effective CNN architecture for visual parking occupancy detection.
 
